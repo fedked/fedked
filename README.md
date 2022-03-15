@@ -27,7 +27,9 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br>
 
-  ## Projetos voluntários para comunidade surda
+  ## Games 🎮
   
-  - [FESAI - Fórum de Estudos Surdos na Área de Informática](https://www.fesai.com.br)
-  - DevEducar <em>em breve</em>
+<div style="display: inline_block">
+    <img align="center" alt"steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+    <img align="center" alt"nintendo-switch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+</div>
