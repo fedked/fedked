@@ -1,4 +1,4 @@
-# Oi, sou Fernando Kendi 🧏‍♂️
+# Hi, I'm Fernando and Deaf!🧏‍♂️
 
 ## Frontend
 
