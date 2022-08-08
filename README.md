@@ -1,20 +1,5 @@
 # Oi, sou Fernando Kendi 🧏‍♂️
 
-<div style="display: inline_block">
-    <a href="https://twitter.com/fedkendi" target="_blank">
-    <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fedkendi/" target="_blank">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div><br/>
-
-<div>
-    <a href="https://github.com/fedkendi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedked&show_icons=true&theme=ayu-mirage">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedked&layout=compact&langs_count=16&theme=ayu-mirage">
-</div>
-
 ## Tecnologias usadas
 
 <div style="display: inline_block">
