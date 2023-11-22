@@ -1,4 +1,4 @@
-# Hi, I'm Fernando and Deaf!🧏‍♂️
+# Hi, I'm Fernando and Deaf!🧏🏻‍♀️
 
 ## Frontend
 
